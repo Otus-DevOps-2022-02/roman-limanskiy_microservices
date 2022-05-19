@@ -1,0 +1,9 @@
+REPOSITORY              TAG               IMAGE ID       CREATED         SIZE
+roman/ubuntu-tmp-file   latest            5204c04a559b   7 seconds ago   63.2MB
+ubuntu                  18.04             c6ad7e71ba7d   2 weeks ago     63.2MB
+prom-api                latest            dd4c87b3a91b   4 weeks ago     130MB
+python                  3.8-slim-buster   d1cceaa2aed9   5 weeks ago     117MB
+hello-world             latest            feb5d9fea6a5   7 months ago    13.3kB
+
+Задание со *
+Образ создержит базовый слой для создания контейнеров, без переданных переменных (сеть например), если можно так выразиться.
