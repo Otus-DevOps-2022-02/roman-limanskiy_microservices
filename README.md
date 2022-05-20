@@ -1,2 +1,15 @@
-# roman-limanskiy_microservices
-roman-limanskiy microservices repository
+## ДЗ №12
+
+1. Установлено все необходимое окружение
+2. Поработал с docker локально
+3. Создал docker-host в yandex cloud с помощью docker-machine
+4. Собрал образ из Dockerfile
+5. Поработал с docker на docker-host
+6. Загрузил образ на docker hub
+7. Ещё поработал на docker-host используя образы из docker hub
+
+Задания со *
+
+1. Инстансы описаны в виде кода terraform, их количество задается переменной
+2. Написаны плейбуки для установки докера и запуска приложения
+3. Подготовлен конфиг для создания шаблона ОС с устаноаленным докером
