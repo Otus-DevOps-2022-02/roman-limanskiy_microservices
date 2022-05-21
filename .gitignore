@@ -4,4 +4,4 @@
 *.tfvars
 .terraform/
 variables.json
-*.env
+.env

@@ -47,7 +47,7 @@ sudo docker run -d --network=reddit -p 9292:9292 -e POST_SERVICE_HOST=post_1 -e 
 5. Добавил в docker-compose вариант запуска с несколькими сетями, параметризировал версии образов и порт приложения, переменные описал в файле environment.env.example
 6. Имя сервиса по умолчанию это имя директории с файлом docker-compose, изменить его можно с помощью флага '-p':
 ```
-docker-compose -p my_project --env-file environment.env up -d
+docker-compose -p my_project --env-file .env up -d
 ```
 
 Задания со *
