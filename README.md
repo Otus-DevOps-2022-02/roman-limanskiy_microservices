@@ -90,6 +90,7 @@ command: puma --debug -w 2
 1. Запустил и сконфигурировал Prometheus
 2. Добавил мониторинг сервисов
 3. Добавил сбор метрик через node-exporter
+4. Загрузил образы на docker hub https://hub.docker.com/u/rulimanskiy
 
 Задания со *
 
